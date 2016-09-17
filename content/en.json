@@ -1,0 +1,61 @@
+
+{
+	"error": "none",
+	
+	"title": "For a brighter future",
+
+	"overlay": { 
+		"positive": "I am HIV-positive",
+		"not_sure": "I'm not sure"
+	},	
+
+	"video_url": {
+		"positive": "https://www.youtube.com/embed/4ycoSXNGdV8",
+		"not_sure": "https://www.youtube.com/embed/_sQ89B-srEo"
+	},
+
+	"content": {
+		"positive": {
+			"sections": [
+				{ 
+					"type": "list",
+					"header": "You have a full life to live",
+					"items": [
+						"Your life quality does not have to change if you treat yourself",
+						"HIV is a viral disease that cannot be cured",
+						"You can live your life to the fullest if you take pills and visit the doctor frequently",
+						"You are not alone – there are experienced advisors and support networks"
+					]
+				}
+			]
+		},
+
+		"not_sure": {
+			"sections": [
+				{
+					"type": "list",
+					"header": "You can never be too sure...",
+					"items": [
+						"People who are not aware of their infection spread the virus",
+						"By not knowing your status you can infect your loved ones",
+						"Test yourself regularly at least once a year",
+						"Get yourself and your partner tested before unprotected intercourse",
+						"Always use protection when you are having casual sex"
+					]
+				}
+			]
+		},
+		"general": {
+			"sections": [
+				{
+					"type": "text_col_50",
+					"header": "News",
+					"paragraphs": [
+						"Coming soon..."
+					]
+				}
+			]
+		}
+	}
+}
+	

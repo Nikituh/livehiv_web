@@ -1,0 +1,37 @@
+
+{
+	"error": "Content for this language is not yet available",
+	
+	"overlay": { 
+		"positive": "",
+		"not_sure": ""
+	},
+	"content": {
+		"positive": {
+			"sections": {
+				"type": "list",
+				"header": "",
+				"items": [
+					"",
+					"",
+					"",
+					""
+				]
+			}
+		},
+
+		"not_sure": {
+			"sections": {
+				"type": "list",
+				"header": "",
+				"items": [
+					"",
+					"",
+					"",
+					"",
+					""
+				]
+			}
+		}
+	}
+}
