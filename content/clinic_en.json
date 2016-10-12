@@ -1,0 +1,59 @@
+{
+	"header": "Quick test clinics",
+
+	"clinics": [
+		{
+			"id": "linda",
+
+			"name": "Linda Clinic",
+			
+			"bullets_header": "Linda Clinic provides such services as",
+
+			"bullets": [
+				"Rapid HIV testing (in the clinic premises and during offsite events)",
+				"Outreach work",
+				"Treatment",
+				"Regular medical checkups",
+				"Psychological support",
+				"Social support"
+			],
+			
+			"description": "All services are free of charge and provided in a low-threshold, stigma- and judgment-free setting, leading towards the best possible health outcomes for each individual",
+			
+			"contact": {
+				"header": "Our contact details",
+				"address": "Linda 4, 20309 Narva, 6th floor",
+				"open_hours": "9:00 — 17:00",
+				"phone_doctor": "Doctor / Nurse: 35 69 712",
+				"phone_support": "Support: 35 69 651, 5305 0908",
+				"email": "info@lindakliinik.ee",
+				"facebook": "http://facebook.com/LindaKliinik",
+				"homepage": "http://lindakliinik.ee"
+			}
+		},
+		{
+			"id": "infection",
+
+			"name": "Lääne-Tallinna Keskhaigla Infectious Disease Clinic",
+
+			"bullets_header": "Services",
+
+			"bullets": [
+				"Free HIV consultation and testing",
+				"If necessary, hepatitis tests",
+				"Free condoms",
+				"Free information leaflets"
+			],
+
+			"description": "Lääne-Tallinna Keskhaigla Infectious Disease Clinic has an anonymous HIV cabinet where patients can get HIV quick tests and consultation. The service is free and anonymous. Test with consultation can take up to half an hour and the results are given immediately",
+
+			"contact": {
+				"header": "Lisainfo",
+				"address": "Paldiski mnt. 62",
+				"phone_support": "Tel: 645 5555",
+				"open_hours": "E-N 8.00–17.30, ja R 8.00–13.30",
+				"homepage": "http://www.keskhaigla.ee/kliinikud/nakkuskliinik/hiv-noustamine-ja-testimine/"
+			}
+		}
+	]
+}

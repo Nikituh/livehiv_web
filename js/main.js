@@ -4,59 +4,70 @@ var Language;
 
 $(document).ready(function() {
 
-	$(".overlay_box_positive").click(positiveButtonClicked);
-	$(".overlay_box_unsure").click(unsureButtonClicked);
+	$(".hiv_button").click(hivButtonClicked);
+	
+	$(".language").click(languageButtonClicked2);
 
-	$(".language").click(languageButtonClicked);
+	loadLanguage();
 
-	var cookie = readCookie();
+	$(".video_container").click(function() {
+		console.log("jsdhhgsg");
+	});
 
-	if (cookie != null) {
-		loadLanguage(cookie);
-	} else {
-		loadLanguage("et");
+	if (window.location.href.indexOf("result") != -1) {
+		var result = window.location.href.split("=")[1];
+
+		if (result == "success") {
+			if (CurrentLanguage == "et") {
+				alert("Aitäh. Informatsiooni edastatud");
+			} else if (CurrentLanguage == "en") {
+				alert("Great success, sent email to LiveHIV");
+			} else {
+				alert("TODO");
+			}
+		} else {
+			if (CurrentLanguage == "et") {
+				alert("Oih. Miskit läks nihu. Ole hea, proovi uuesti");
+			} else if (CurrentLanguage == "en") {
+				alert("Oops! Something went terribly wrong. Please try again");
+			} else {
+				alert("TODO");
+			}
+		}
 	}
-
-
-	// TODO languages, load together etc
-	$.get("../content/" + "testing_office.json", function(data) {
-		loadOfficeData(data);
-	})
 
 });
 
-function positiveButtonClicked() {
-	hideOverlay();
-	$(".introduction_overlay").attr("choice", "positive");
+function hivButtonClicked() {
+	updateChoice($(this));
 	loadContent();
 }
 
-function unsureButtonClicked () {
-	hideOverlay();
-	$(".introduction_overlay").attr("choice", "not_sure");
-	loadContent();
+function updateChoice(button) {
+	$(".hiv_button").removeClass("hiv_button_active");
+	
+	var classes = button.attr("class").split(' ');
+	var choice = classes[classes.length - 1];
+	setChoice(choice);
+	
+	button.addClass("hiv_button_active");
 }
 
-function hideOverlay () {
-	$(".introduction_overlay").fadeTo("slow", 0, function() { 
-		$(".introduction_overlay").css("display", "none"); 
-	});
+function setChoice(choice) {
+	$(".hiv_buttons_wrapper").attr("choice", choice);
 }
 
-function languageButtonClicked() {
-
-	var language = $(this).attr("language");
-
-	createCookie(language);
-	loadLanguage(language);
+function getChoice() {
+	return $(".hiv_buttons_wrapper").attr("choice");
 }
 
-function loadLanguage(language) {
+function languageButtonClicked2() {
+	loadLanguage();
+}
 
-	Language = language;
+function loadLanguage() {
 
-	var base = "../content/";
-	var url = base + language + ".json";
+	var url = "../content/main_content_" + CurrentLanguage + ".json";
 
 	$.get(url, function(data) {
 
@@ -68,41 +79,67 @@ function loadLanguage(language) {
 		}
 
 		Content = data;
-		loadContent();
+		loadContent(data);
 	});
 }
 
-function loadContent() {
+function loadContent(data) {
 
-	var choice = $(".introduction_overlay").attr("choice");
+	/* HEADER */
+	$(".initial_slogan_1").html(data.header.header);
+	$(".initial_slogan_2").html(data.header.paragraph_1);
+	$(".initial_slogan_3").html(data.header.paragraph_2);
 
-	$(".overlay_box_positive").html(Content.overlay.positive);
-	$(".overlay_box_unsure").html(Content.overlay.not_sure);
+	/* HEADER 2 */
+	$(".text_top_large").html(data.header_2.text);
 
-	var sections = [];
+	/* CALL TO ACTION */
+	$(".text_button_call_to_action_order_test").html(data.call_to_action.order_test.title);
+	$(".text_button_call_to_action_clinic").html(data.call_to_action.visit_clinic.title);
 
-	if (choice == "positive") {
-		sections = Content.content.positive;
-		updateVideoSource(Content.video_url.positive);
+	$(".description_button_call_to_action_order_test").html(data.call_to_action.order_test.description);
+	$(".description_button_call_to_action_clinic").html(data.call_to_action.visit_clinic.description);
+
+	/* CALL TO ACTION BUTTON SIZING*/
+	$(".button_call_to_action_clinic").css("height", "auto");
+	$(".button_call_to_action_order_test").css("height", "auto");
+	
+	if ($(".button_call_to_action_clinic").height() > $(".button_call_to_action_order_test").height()) {
+		$(".button_call_to_action_order_test").height($(".button_call_to_action_clinic").height())
 	} else {
-		sections = Content.content.not_sure;
-		updateVideoSource(Content.video_url.not_sure);
-		
+
 	}
 
-	updateIndexText(Content.title);
+	/* VIDEO */
+	var parsedUrl = "https://www.youtube.com/watch?v=" + data.video_url.not_sure.split("/embed/")[1];
+	$(".video_hiv_unsure").attr("href", parsedUrl);
+	// $(".video_hiv_unsure").attr("href", data.video_url.not_sure);
+	parsedUrl = "https://www.youtube.com/watch?v=" + data.video_url.positive.split("/embed/")[1];
+	$(".video_hiv_positive").attr("href", parsedUrl);
+	// $(".video_hiv_positive").attr("href", data.video_url.positive);
+	parsedUrl = "https://www.youtube.com/watch?v=" + data.video_url.home_test.split("/embed/")[1];
+	$(".video_hiv_home_test").attr("href", parsedUrl);
+	// $(".video_hiv_home_test").attr("href", data.video_url.home_test);
 
-	$(".content_wrapper").html("");
+	$(".content_video_text_unsure").html(data.video_text.not_sure);
+	$(".content_video_text_positive").html(data.video_text.positive);
+	$(".content_video_text_home_test").html(data.video_text.home_test);
+	
+	/* GET TESTED */
+	$(".get_tested_top_label").html(data.get_tested.text);
+	$(".get_tested_bottom_link").html(data.get_tested.link);
+	
+	/* NEWS */
+	$(".news_header").html(data.news.header);
 
-	for (var i = 0; i < sections.sections.length; i++) {
-		var section = sections.sections[i];
-		$(".content_wrapper").append(UI_getSection(section));
-	}
+	/* CONTACT */
+	$(".contact_header").html(data.contact.header);
 
-	for (var i = 0; i < Content.content.general.sections.length; i++) {
-		var section = Content.content.general.sections[i];
-		$(".content_wrapper").append(UI_getSection(section));	
-	}
+	$(".form_label_name").html(data.contact.form_items.name);
+	$(".form_label_email").html(data.contact.form_items.email);
+	$(".form_label_message").html(data.contact.form_items.message);
+
+	$(".form_button_submit").prop("value", data.contact.button_submit);
 }
 
 function updateVideoSource(source) {
@@ -114,18 +151,16 @@ function updateVideoSource(source) {
 	}
 }
 
-function updateIndexText(title) {
-	var html = "<span class='bold'> Live HIV </span> – " + title;
-	$(".index_button").html(html);
-}
-
 function loadOfficeData(data) {
 
 	var container = $(".testing_offices_wrapper");
 
-	for (var i = 0; i < data.length; i++) {
-		var item = data[i];
-		container.append(UI_getOffice(item));
+	container.html(UI_getOfficeHeader(data.header));
+
+	for (var i = 0; i < data.list.length; i++) {
+		var item = data.list[i];
+		var html = UI_getOffice(item, data.address_text, data.phone_text, data.open_hours_text);
+		container.append(html);
 	}
 }
 

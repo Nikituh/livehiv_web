@@ -1,0 +1,14 @@
+
+{		
+	"title": "Регулярно сдавай тест на ВИЧ",
+	
+	"footer_link": {
+		"team": "КОМАНДА",
+		"about": "О ВИЧ",
+		"about_url": "/images/document_hiv_information_ru.pdf",
+		"stats": "Cтатистика ВИЧ",
+		"stats_url": "http://terviseamet.ee/nakkushaigused/nakkushaigustesse-haigestumine/hiv-ja-aids.html"
+	},
+
+	"footer_label_supporter": "Организаторы конкурса HIVdigital: кластер технологий в сфере здравоохранения Эстонии Connected Health и GlaxoSmithKline Eesti OÜ. Конкурс финансируется через программу ViiV Healthcare Positive Partnerships."
+}

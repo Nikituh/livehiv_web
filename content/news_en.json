@@ -1,0 +1,167 @@
+{
+	"read_more_button_label": "Read more...",
+	
+	"articles": [
+		{
+			"id": "hiv-digital-hackathon",
+
+			"date": "02.09 2016",
+
+			"header": "HIVdigital Hackathon was the breeding ground for the HIV preventing solution to stop the epidemic",
+			
+			"left_paragraphs": [ 
+
+				"From 26th to 28th of August the world's first HIVdigital Hackathon took place at Tallinn Science Park Tehnopol. More than 80 digital solution developers and HIV subject matter experts came together for this important project, in order to identify the best ideas for digital solutions to encourage HIV-positive people's well-being.",
+
+				"The hackathon was organized by the Estonian Health Technology Cluster Connected Health and led by Tallinn Science Park Tehnopol and GlaxoSmithKline Estonia. The competition was supported by the Estonian Ministry of Social Affairs and financially supported by ViiV Healthcare's Positive Partnerships program.",
+
+				"After the 48-hour development marathon three ideas from the initial fourteen were chosen as winners, between whom the prize fund of 30 000 Euros was devided. The winning projects were LiveHIV, DigiScreen and hINF.",
+
+				"As DigiScreen wishes to automate finding HIV risk group in Estonia and hINF wishes to create a mobile application to support the HIV-positive patients who correctly follow their treatment plan, then LiveHIV wants to tackle the real issue, and that means – limiting the spread of HIV disease.",
+				
+				"../images/photo/photo_hackathon.jpg"
+				
+			],
+
+			"right_paragraphs": [
+				
+				"The HIV epidemic is spreading very fast in Estonia, placing our small country in the first place in the European Union in terms of new infections. Knowing, that HIV treatment is prevention, the spread can be prevented through constant publicity campaign.",
+
+				"LiveHIV idea is to create an engaging permanent campaign in order to encourage healthy adults to test themselves on a regular basis and in case of the positive result to guide them to the necessary services. Since HIV-positives on treatment live their regular everyday life and do not infect other people, LiveHIV considers the main aim of their project to significantly impede the HIV infection among heterosexuals of over 35 years old. As an alternative for having a rapid test in the anonymous HIV testing service, LiveHIV.ee wishes to be also the first and most operative source where from the end of November people could receive information about the possibilities of home testing.",
+
+				"LiveHIV web site will be the best and most recent HIV related content page.",
+
+				"In addition to the home test offer information, LiveHIV also supports people, who have received the HIV- positive test result. Guides them to helping institutions and gives them hope, for instance through clear and simple animations. Then the HIV-positive person would know, that if he or she gets a regular treatment, then he or she could also live their life fullest and meaningful.",
+
+				"Within the next three months the winners of the Hackathon have to develop their working prototypes. And already in December 2016 the jury will choose the final winner, who receives the prize fund of 70 000 Euros for testing and implementing their working and sustainable digital solution. "
+			]
+		},
+		{ 
+			"id": "live-hiv-research-1",
+
+			"date": "11.09 2016",
+
+			"header": "LiveHIV first quiz showed that educational work should be further enhanced",
+			
+			"left_paragraphs": [ 
+				"During the weekend LiveHIV team conducted their first quick quiz among people. The aim was to find out how do adult Estonian people living in Tallinn area take the information about hometesting possibilities and how good is their knowledge about HIV. Results were expected, but there is definitely need for educating.",
+
+				"Among 106 people who answered, 77 knew their HIV- status. 29 people were not aware of their status . Among the  people who answered ''Yes'', 32 of them had made the HIV test more than 1 year ago and 28 people got tested less than 3 months ago. 10 people had got their answer 1 year ago and 9 people more than 6 months ago.",
+
+				"When we asked the reason for HIV testing, we found out, that HIV tests were made during complex analysis for 47 people. 22 people wanted to have reassurance, 6 made the test from curiosity and 4 people have had a risky situation.",
+
+				"We also wanted to know, how many of the respondence are aware of, that the person, who gets HIV treatment regularly cannot affect others. Only 35 people had heard about it before and 71 were not aware of this information.",
+
+				"We were also asking if the ones participating in the quiz know, that the person, who gets regular tablet therapy and who's HIV virus is detected at the early stage, can live as long as any HIV negative person. The answers were devided between 69 'Yes's' and 37 No's'.",
+
+				"63 people had heard, that growth in HIV positive people is 8 times higher in Estonia than in Europe. This fact was a news for 43 people.",
+
+				"69 people knew, that there are several anonomys cabinets with  possibilities to make free rapid HIV tests. But 37 people had never heard about it.",
+
+				"LiveHIV also wanted to know, are estonian people aware, that the biggest number in newly effected are middle class heterosexual people from Tallinn area. This information was new to 64 and 42 people claimed that they already know it.",
+
+				"We asked, that are people willing to go to anonymus cabinet to get tested. 65 answered, that they dont see the need for that. 31 are planning to visit the cabinet, 7 people can not find time for that and 3 people said they dont think going to the cabinet is private enough."
+			],
+
+			"right_paragraphs": [
+
+				"The next question was, that which kind of home HIV test would people be willing to use. 77 people voted for spittest, 20 for bloodtest and 9 was not interested of home tests at all.",
+
+				"Then we wanted to find out, how much would people pay for home tests. 58 are willing to pay up to 40 euros, 3 would pay up to 80 euros and 45 people would like to make the test free of charge.",
+
+				"Finally 90 people agreed, that HIV prevention is important for them.",
+
+				"In conclusion we can say, that most people do underestand how important stopping and preventing HIV really is. But there are many people, who are not aware of their HIV status. For many people HIV test is made during complex analysis. And people, who make the test from curiosity leave the time between two tests to become longer than one year.",
+
+				"We also found out, that there are many, who have made the HIV test within the last three months.",
+
+				"Many have heard, that the person, who gets regular treatment and who's HIV virus is detected at the early stage, can live as long as HIV negative people. But at the same time people don't know, that this person, who gets the regular treatment, cannot affect the others.",
+
+				"People have heard of the fast spreading of HIV in Estonia, but many don't know about anonymus free testing possiblilties, that they could protect themselves and other people.' And even if they have heard of testing possibilities, they are not interested of making the test. It seems, that they are not very aware of the danger of getting HIV themselves.",
+
+				"It is also news to many that the biggest number in newly effected are middle class heterosexual people from Tallinn area.",
+
+				"It seems, that people are interested of home testing possibilities, from which the spittest was the most popular. Many people are ready to pay up to 40 euros for their anonymus home test.",
+
+				"With the quiz LiveHIV found out, that preventing HIV is important to estonians and they are happy to receive HIV included information. If there would be only more public HIV information and if the HIV testing was more private and easy to reach."
+			]
+		},
+		{
+			"id": "meeting-in-narva-clinic",
+
+			"date": "20.09 2016",
+			
+			"header": "Meeting with communication manager",
+
+			"left_paragraphs": [
+				"A meeting between the communication manager of Narva Clinit, Igor Psenkov, and team leader of LiveHiv. Jaanika leoste, took place in Narva today. An agreement over the regional cooperation throughout the HIV week was reached.",
+				"In addition, the voices for a new animation directed at Russian-speaking HIV-positive people was recorded (voiced by senior nurse of Linda Clinic, Tamara Dmitirijeva). The new animation will be available on October 10th on livehiv.ee's new Russian section. Fresh information about regional occasions during HIV-prevention week will also be available."
+			],
+
+			"right_paragraphs": [
+				"../images/photo/photo_article_meetup.png"
+			]			
+		},
+		{
+			"id": "symptoms-of-hiv",
+
+			"date": "01.10 2016",
+
+			"header": "Symptoms of HIV",
+
+			"left_paragraphs": [
+				"You cannot rely on symptoms to tell whether you have HIV. <span class='bold'> The only way to know for sure if you have HIV is to get tested. </span> Knowing your status is important because it helps you make healthy decisions to prevent getting or transmitting HIV.",
+
+				"The symptoms of HIV vary, depending on the individual and what stage of the disease you are in. There are three stages: the early stage, the clinical latency stage, or AIDS (the late stage of HIV infection).",
+
+				"<span class='bold'> 1. EARLY STAGE OF HIV </span>",
+
+				"Some people may feel, that they have got a flu within 2-4 weeks after HIV infection. But some people may not feel sick during this stage.",
+
+				"Flu-like symptoms can include: chills, fever, rash, night sweats, sore throat, muscle aches, fatigue, mouth ulcers, swollen lymph nodes",
+
+				"These symptoms can last anywhere from a few days to several weeks. During this time, HIV infection may not show up on an HIV test, but people who have it are highly infectious and can spread the infection to others.",
+
+				"You should not assume you have HIV just because you have any of these symptoms. Each of these symptoms can be caused by other illnesses. Some people who have HIV do not show any symptoms at all for 10 years or more.",
+
+				"Most HIV tests detect antibodies (proteins your body makes as a reaction against the presence of HIV), not HIV itself. But it takes a few weeks for your body to produce these antibodies, so if you test too early, you might not get an accurate test result.",
+
+				"After you get tested, it’s important to find out the result of your test so you can talk to your health care provider about treatment options if you’re HIV-positive or learn ways to prevent getting HIV if you’re HIV-negative.",
+
+				"You are at high risk of transmitting HIV to others during the early stage of HIV infection, even if you have no symptoms. For this reason, it is very important to take steps to reduce your risk of transmission.",
+
+				"<span class='bold'> If you think you may have been exposed to HIV, get a test! </span>"
+			],
+
+			"right_paragraphs": [
+
+				"<span class='bold'> 2. CLINICAL LATENCY STAGE </span>",
+
+				"This stage is also called Cronic HIV infection. During this stage, HIV is still active but reproduces at very low levels. People with chronic HIV infection may not have any HIV-related symptoms, or only mild ones.",
+
+				"For people who aren’t taking medicine to treat HIV (called antiretroviral therapy or ART), this period can last a decade or longer, but some may progress through this phase faster. People who are taking medicine to treat HIV the right way, every day may be in this stage for several decades because treatment helps keep the virus in check.",
+
+				"It’s important to know that people can still transmit HIV to others during this phase even if they have no symptoms.",
+
+				"Much less likely to transmit HIV are the people who are on ART. That is because they have very low level of virus in their blood.",
+
+				"<span class='bold'> 3. AIDS </span>",
+
+				"If you have HIV and you are not on ART, eventually the virus will weaken your body’s immune system and you will progress to AIDS (acquired immunodeficiency syndrome), the late stage of HIV infection.",
+
+				"Symptoms can include: extreme and unexplained tiredness; recurring fever or profuse night sweats; rapid weight loss; prolonged swelling of the lymph glands in the armpits, groin or neck; diarrhea that lasts for more than a week; sores of the mouth, anus or genitals; pneumonia; red, brown, pink or purple blotches on or under the skin or inside the mouth, nose or eyelids; depression, memory loss and other neurologic disorders",
+
+				"Each of these symptoms can also be related to other illnesses. <span class='bold'> The only way to know for sure if you have HIV is to get tested! </span>"
+			]
+		}
+	]
+}
+
+
+
+
+
+
+
+
+

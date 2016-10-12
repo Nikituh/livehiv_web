@@ -1,0 +1,59 @@
+
+.clinic_data_container {
+	color: #0D47A1;
+	font-weight: 300;
+	text-align: justify;
+	margin-left: 2%;
+	width: 96%;
+}
+
+.clinic_name {
+	font-size: 25px;
+	font-weight: 500;
+	margin: 15px 0;
+	text-align: left;
+}
+
+.clinic_bullets_header {
+	font-size: 18px;
+	margin-bottom: 10px;
+	font-weight: 400;
+}
+
+.bullets_container {
+	float: left;
+	margin-left: 15px;
+	list-style-type: disc;
+}
+
+.clinic_bullet {
+	display: list-item;
+	line-height: 17px;
+	font-size: 15px;
+}
+
+.clinic_description {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+.clinic_contact_container {
+
+}
+
+.clinic_contact_item {
+	margin: 5px ;
+	font-size: 15px;
+}
+
+.clinic_contact_header {
+	font-size: 17px;
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+
+.quick_testing_container {
+    max-width: 960px;
+    margin: 0 auto;
+}

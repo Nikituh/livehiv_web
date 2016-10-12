@@ -1,0 +1,72 @@
+
+{
+	"error": "none",
+
+	"header": {
+		"header": "Eestis on HIV-Epideemia – ole kindel, et sa ei ole nakatunud",
+		"paragraph_1": "Iga 143s inimene Eestis on HIV-positiivne",
+		"paragraph_2": "Enamus uusi nakatunuid Tallinnas on keskmise või kõrgema sissetulekuga"
+	},
+	
+	"header_2": {
+		"text": "HIV diagnoosimisel ei saa tugineda ainult sümptomitele. Ainus viis kindlalt teada saada, kas sul on HIV või mitte, on saada testitud. Oma HIV staatuse teadmine on väga oluline, sest see laseb meil endal teha elus tervise osas õigeid otsuseid ja aitab meil ka teisi inimesi mitte HIVsse nakatada"
+	},
+
+	"call_to_action": {
+		"order_test": { 
+			"title": "TELLI KODUTEST", 
+			"description": "Telli anonüümselt test koju. Kodutesti hind <span class='bold'>ca. 40€</span>. Vaata kasutamise <a href='https://www.youtube.com/watch?v=WdoMwzTguV0' target='_blank'>videot</a>. Testimiseks kulub umbes 20 minutit."
+			},
+		"visit_clinic": {
+			"title": "KIIRTEST KLIINIKUS",
+			"description": "Anonüümset kiirtestimist saab teha <span class='bold' style='color:white;'>tasuta</span> Tallinnas ja Narvas HIV nõustamiskabinetis. Test võtab aega umbes 3 minutit"
+		}
+	},
+
+	"get_tested": {
+		"text": "Üle Eesti on 14 kohta, kus saab end tasuta testida",
+		"link": "Leia endale sobiv"
+	},
+
+	"video_text": {
+		"positive": "Elu HIV-positiivsena",
+		"not_sure": "Ole kindel – mine testima",
+		"home_test": "HIV kodutestimine"
+	},
+	
+	"video_url": {
+		"positive": "https://www.youtube.com/embed/n5IxbVSgT8Y",
+		"not_sure": "https://www.youtube.com/embed/5XJc8ussynk",
+		"home_test": "https://www.youtube.com/embed/PBHWSI13wHc"
+	},
+
+	"news": {
+		"header": "UUDISED"
+	},
+
+	"contact": {
+		"header": "VÕTA ÜHENDUST",
+
+		"form_items": {
+			"name": "Nimi",
+			"email": "E-post",
+			"message": "Sõnum"
+		},
+
+		"button_submit": "Saada",
+
+		"result": {
+			"success": "Korras! Email saadetud",
+			"error": "Oih, midagi läks vähe nihu. Ole hea, proovi uuesti"
+		}
+	}
+}
+
+
+
+
+
+
+
+
+

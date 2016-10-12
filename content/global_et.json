@@ -1,0 +1,14 @@
+
+{		
+	"title": "Testi ennast regulaarselt",
+	
+	"footer_link": {
+		"team": "MEESKOND",
+		"about": "HIV-ist",
+		"about_url": "/images/document_hiv_information_et.pdf",
+		"stats": "HIV STATISTIKA",
+		"stats_url": "http://terviseamet.ee/nakkushaigused/nakkushaigustesse-haigestumine/hiv-ja-aids.html"
+	},
+
+	"footer_label_supporter": "Konkurssi HIVdigital korraldavad Eesti tervisetehnoloogia klaster Connected Health ja GlaxoSmithKleine Eesti OÜ ning rahastab ViiV Healthcare Positive Partnership programm"
+}

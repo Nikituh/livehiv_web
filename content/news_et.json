@@ -1,0 +1,156 @@
+{
+	"read_more_button_label": "Loe edasi...",
+
+	"articles": [
+		{
+			"id": "hiv-digital-hackathon",
+
+			"date": "02.09 2016",
+
+			"header": "HIVdigital Hackathoni raames töötati välja HIVi ennetav lahendus epiedeemia peatamiseks",
+						
+			"left_paragraphs": [
+				"26. kuni 28. augustil toimus Tallinna Teaduspargis Tehnopol maailma esimene HIVdigital Hackathon ehk arendusmaraton. Tähtsa projekti raames oli kokku tulnud üle 80 IT-arendaja ja HIV-valdkonna spetsialisti, et selgitada välja parimad teostustväärivad ideed selliste digilahenduste väljatöötamiseks, mis tõstaksid HIV-positiivsete inimeste heaolu.",
+
+				"Konkursi korraldajateks oli Tallinna Teaduspark Tehnopol poolt juhitud Eesti tervisetehnoloogia klaster Connected Health ja GlaxoSmithKline Eesti. Ettevõtmisele avaldas toetust Sotsiaalministeerium ning konkurssi rahastas ViiV Healthcare Positive Partnerships programmist.",
+
+				"48-tunnise arendumaratoni tulemusena valiti võitjateks esialgsest neljateistkümnest esitatud ideest kolm, kelle vahel jagati auhinnafond 30 000 eurot. Võitjateks osutusid projektid Live HIV, DigiScreen ja hINF.",
+
+				"Kui DigiScreen soovib automatiseerida HIV riskirühma leidmist Eestis ning hINF luua mobiilirakenduse, millega toetada raviplaani jälgivaid HIV positiivseid patsiente, siis Live HIV soovib tegelema asuda tegeliku probleemi lahendamisega, see tähendab - HIVi haigestumise piiramisega.",
+
+				"../images/photo/photo_hackathon.jpg"
+			],
+
+			"right_paragraphs": [
+
+				"HIV epideemia levik on Eestis väga kiire, asetades meie väikese riigi Euroopa Liidus uute nakatumiste poolest esikohale. Teades, et HIV raviks on ennetus, saab levikut tõkestada vaid pideva kampaania ja teavitustöö kaudu.",
+				
+				"LiveHIV projekti eesmärk on teha veebis kaasahaarav püsikampaania, et julgustada terveid täiskasvanud inimesi ennast regulaarelt kiirtestima ning positiivse vastuse korral suunata neid vajalike teenusteni. Kuna püsiteraapial olev HIV positiivne elab tavalist igapäevaelu ja teisi ei nakata, näebki Live HIV oma projekti põhipanust HIV nakatumise olulisel pidurdamisel heteroseksuaalses 35+ rühmas. Alternatiivina anonüümses kabinetis kiirtesti tegemisele soovib LiveHIV.ee olla ka esimene ja operatiivseim allikas, millest  hakkab alates novembri lõpust saama infot kodutestimise võimaluste kohta.",
+
+				"Live HIV veebilehekülg saab olema parima ja värskeima HIV teemalise sisuga lehekülg.",
+
+				"Lisaks kodutestide pakkumise informatsioonile toetab Live HIV keskkond ka HIV-positiivse tulemuse saanud inimesi. Suunab nad abipakkujate juurde ning pakub omalt poolt lootust.",
+
+				"Seda kasvõi läbi lihtsate ja selgete animatsioonide. Et HIV positiivse vastuse saanud inimene teaks, et tal on regulaarset ravi saades võimalik täisväärtuslikult edasi elada.",
+
+				"Järgmise kolme kuu jooksul tuleb hackathoni finalistidel arendada välja prototüübid ning juba 2016. aasta detsembris valitakse võitja, kellele määratakse auhinnaraha 70 000 eurot, et oma prototüübist toimiv ja jätkusuutlik digilahendus lõpuni arendada."
+			]
+		},
+		{
+			"id": "live-hiv-research-1",
+
+			"date": "11.09 2016",
+
+			"header": "LiveHIV esimesest uuringust selgus, et teavitustööd tuleb veelgi enam tõhustada",
+
+			"left_paragraphs": [
+				"Sellel nädalavahetusel korraldas LiveHIV oma esimese uuringu. Eesmärgiks oli teada saada, kuidas suhtuvad Tallinna piirkonnas elavad täiskasvanud eestlased kodutestimise võimalusse ning kui head on nende teadmised HIV- st. Tulemused olid ootuspärased, kuid selgus ka, et inimestele on kiiremas korras vaja teha veelgi enam teavitustööd.",
+
+				"106 vastanu seast teadis oma HIV staatust 77. See-eest 29 inimest ei olnud oma staatusest teadlikud. Jah-vastanute seast oli 32 inimest käinud HIV testi tegemas rohkem kui 1 aasta tagasi ja 28 inimest vähem kui 3 kuud tagasi. Aasta tagasi oli vastuse teada saanud 10 ja üle poole aasta tagasi 9 inimest. Testimise põhjust küsides selgus, et 47 inimesel võeti HIV analüüs kompleksanalüüsi käigus. 22 inimest soovis saada kindlustunnet, 6 inimest tegi testi uudishimust ning ainult 4 tõi põhjuseks riskantse olukorra.",
+
+				"Soovisime ka teada, kui mitu vastanutest on teadlikud sellest, et HIV ravil ollev inimene ei saa nakatada teisi inimesi. Kõigest 36 oli seda enne kuulnud ning koguni 71 ei olnud sellisest informatsioonist teadlikud.",
+
+				"Küsisime veel, kas uuringus osalejad on teadlikud, et õigeaegselt avastatud viirusega HIV ravil ollev inimene elab igapäevast tabletiteraapiat saades sama kaua, kui HIV negatiivne inimene. Vastused jagunesid 69 teadja ja 37 mitteteadja vahel. 63 küsitletust olid kuulnud, et Eestis on uute HIV positiivsete juhtude arv elanikkonna kohta 8 korda kõrgem, kui Euroopas. 43-le inimesele oli see uudiseks. Anonüümsete tasuta kiirtestivõimalustega kabinettide olemasolust oli teadlik 69 inimest, kuid 37 polnud sellest kuulnudki.",
+
+				"Uurisime, kui palju on levinud informatsioon selle kohta, et suurem arv uusi nakatunuid on Tallinn- Harju keskklassi tavalised heteroseksuaalsed inimesed. Uudiseks oli see 64 inimesele. 42 väitsid ennast seda juba teadvat.",
+
+				"Küsimusele, kas inimesed oleksid nõus anonüümsesse kabinetti HIV testi tegema minema, vastas lausa 65 inimest, et nad ei näe selleks vajadust. 31 vastajat plaanis kabinetti külastada, 7 inimest ei leidnud selleks aega olevat ning 3-le ei tundunud see variant piisavalt privaatne."
+			],
+
+			"right_paragraphs": [
+				"Tahtsime selgust saada ka inimeste kodutestimiste eelistuste kohta. Lausa 77 inimest oli nõus, et parim lahendus oleks nende jaoks kodusteostatav süljetest. Kodustehtavast veretestist oli huvitatud 20 inimest ning 9 küsitletut ei olnud nõus nimetatud teste kasutama.",
+				"Uurisime ka, kui suure summa oleksid inimesed anonüümselt tarnitavate kodutestide eest maksma. 58 inimest oleks nõus maksma kuni 40 eurot, 3 inimest kuni 80 eurot ning 45 inimest sooviks testi teha tasuta. Viimasena oli 93 inimest nõus väitega, et HIV ennetus on nende jaoks oluline ning olid nõus LiveHIV kanalite kaudu lisateavet hankima.",
+
+				"Kokkuvõtteks võib öelda, et enamus inimesi saab aru, kui tähtis on HIV leviku tõkestamine ja selle ennetamine. Leidub veel mitmeid, kes ei ole oma HIV staatusest teadlikud. Palju inimesi laseb HIV testi teha kompleksuuringute käigus ja omast huvist testitegijate testimiste vahele jääv aeg on suuresti rohkem kui 1 aasta. Selgub ka, et viimase kolme kuu jooksul testi teinud inimesi on päris palju.",
+
+				"Paljud on kuulnud, et õigeaegselt avastatud viirusega korrapärast ravi saav HIV positiivne võib elada sama kaua kui teised inimesed, samas ei tea suur osa inimesi, et sama ravi saav HIV positiivne ei nakata teisi inimesi.",
+
+				"Mitmed on kuulnud Eesti kõrgest HIV- sse nakatunute arvust, aga ei tea midagi tasuta testimisvõimalustest, et ennast ja teisi kaitsta. Ja isegi teades testimisvõimalustest, ei ole paljud huvitatud enese testimisest. Tundub, et nad ei ole piisavale teadlikud HIV saamisvõimaluse suurusest.",
+
+				"Uudiseks on inimestele ka see, et  suurim arv nakatunuid on Tallinn- Harju keskklassi kuuluvad tavalised heteroseksuaalsed inimesed.",
+
+				"Kodustestimise võimalus tundub inimestele huvipakkuv ja süljetest tundub neile parim variant. Palju on anonüümselt kättetoimetatava testi eest maksma kuni 40 eurot.",
+
+				"Leiame, et HIV ennetus tundub inimestele tähtsana ja hea meelega ollakse selleteemalist informatsiooni vastu võtma. Kui ainult veelgi enam teavitust oleks ja testimine veelgi privaatsem ja käepärasem oleks."
+			]
+		},
+		{
+			"id": "meeting-in-narva-clinic",
+
+			"date": "20.09 2016",
+			
+			"header": "Kohtumine kommunikatsioonijuhiga",
+
+			"left_paragraphs": [
+				"Täna toimus Narvas Narva kliiniku juhataja Igor Pšenkovi ja LiveHIV meeskonnajuhi Janika Leoste kohtumine, kus lepiti kokku regionaalses koostöös HIV nädalal.",
+				"Lisaks toimus ka häälte salvestamine venekeelsetele HIV positiivsetele suunatud uuele animatsioonile (hääle andis Linda Kliiniku vanemõde Tamara Dmitirijeva). Uue animatsiooniga  saab tutvuda 10. oktoobril liveHIV.ee avatavas venekeelsel veebilehel. Sealt hakkab leidma ka värsket informatsioon HIVennetusnädala regionaalsete sündmuste kohta."
+			],
+
+			"right_paragraphs": [
+				"http://www.livehiv.ee/images/photos/article_meetup.png"
+			]			
+		},
+		{
+			"id": "symptoms-of-hiv",
+
+			"date": "01.10 2016",
+
+			"header": "HIV SÜMPTOMID",
+
+			"left_paragraphs": [
+				"HIV diagnoosimisel ei saa tugineda ainult sümptomitele. Ainus viis kindlalt teada saada, kas sul on HIV või mitte, on saada testitud. Oma HIV staatuse teadmine on väga oluline, sest see laseb meil endal teha elus tervise osas õigeid otsuseid ja aitab meil ka teisi inimesi mitte HIVsse nakatada.",
+
+				"HIV sümptomid sõltuvad inimesest ja haigusfaasist. HIV-l on kolm etappi: varajane staadium, kliiniliste sümptomiteta peiteajaperiood ning AIDS.",
+
+				"<span class='bold'> 1. VARASES STAADIUMIS HIV </span>",
+
+				"2-4 nädalat peale nakatumist võivad mõned inimesed tunda gripilaadseid sümptomeid. Teised tunnevad ennast aga selles faasis täiesti tervena.",
+
+				"Gripilaadsed sümptomid võivad olla järgmised: külmavärinad, palavik, lööve, öine higistamine, kähe kurk, lihasvalu, väsimus, suuhaavandid, lümfisõlmede paistetus",
+
+				"Need sümptomid võivad kesta mõnest päevast kuni mõne nädalani. Selle aja jooksul ei pruugi HIV test positiivset vastust veel näidata. Kuid viirusekandja on selles faasis väga nakkusohtlik ning võib nakatada teisi.",
+
+				"Mõne loetletud sümptomi esinemine ei tähenda kohe, et inimesel on HIV, sest sellised sümptomid võivad esineda ka teistsuguste haiguse korral.  Mõnel viirusekandjal kulgeb 10 aastat või kauemgi ilma igasuguste sümptomiteta.",
+
+				"Enamik HIV teste tuvastavad anikehasid (proteiine, mida keha toodab reaktsioonina HIVle organismis), mitte HIVd ennast. Inimese kehal võtab selliste antikehade tootmine mõned nädalad aega. Seega tehes testi liiga varakult ei pruugi HIV testivastuses veel näha olla.",
+
+				"Peale HIV testi tegemist on oluline saada teada ka tulemus. See annab inimesele positiivse testi korral võimaluse arutada tervishoiutöötajaga  HIV ravimisteemadel ning negatiivse testitulmuse korral HIV ennetusteemadel.",
+
+				"Varases staadiumis HIV puhul on inimene väga nakkusohtlik ka ilma igasuguste haigussümptomiteta! Seega on väga tähtis võtta kasutusele ettevaatusabinõud, et viirust mitte edasi kanda.",
+
+				"<span class='bold'> Kui arvad, et oled kokku puutunud HIV viirusega, siis tee kindlasti HIV testi! </span>"
+			],
+
+			"right_paragraphs": [
+
+				"<span class='bold'> 2. KLIINILISTE SÜMPTOMITETA PEITEAJAPERIOOD </span>",
+
+				"Seda etappi nimetatakse ka krooniliseks HIV infektsiooni perioodiks. Sellel ajal on HIV ikka veel aktiivne, kuid levib organismis aeglaselt. Kroonilise HIV infektsiooni faasis võivad inimesel esineda  vähesel määral HIV sümptomid, kuid samas võivad need ka täielikult puududa.",
+
+				"Inimesel, kes ei saa selles etapis HIV ravi, võib see periood kesta 10 aastat või kauemgi. Mõned läbivad selle faasi siiski kiiremini.",
+
+				"Inimesed, kes saavad selles etapis õiget HIV ravi, võivad jäädagi sellesse haigusfaasi, kuna ravi aitab hoida viirust kontrolli all.",
+
+				"On oluline teada, et ka selles faasis võivad HIV positiivsed inimesed mitte ravi saades teisi nakatada isegi sellisel juhul, kui neil puuduvad sümptomid.",
+
+				"Need, kes saavad selles stapis HIV ravi, võivad viirust edasi kanda vaid väikese tõenäosusega. Seda seepärast, et nende veres on viirusetase madalam.",
+
+				"<span class='bold'> 3. AIDS </span>",
+
+				"Kui inimesel on HIV viirus ja ta ei saa igapäevast ravi, siis nõrgestab haigus tema immuunsüsteemi ning areneb edasi AIDSi (omandatud immuunpuudulikkuse sündroom) staadiumisse.",
+
+				"Sümptomitest võivad esineda: äärmiselt suur väsimus; korduv palavik või pidev öine higistamine, kiire kaalukaotus; turses lümfisõlmed kaenlaalustes, kubemel või kaelal, üle nädala kestev kõhulahtisus; haavandid suus, pärakus või genitaalidel; kopsupõletik; punased, pruunid, roosad või lillakad laigud naha all, suus, ninas või silmalaugudel; depressioon, mälukaotus ja teised neuroloogilised kõrvalekalded. ",
+
+				"Kõiki neid sümptomeid võib seostada ka teiste haigustega. <span class='bold'> Seega on ainukene võimalus olla HIVs kindel, tehes HIV testi! </span>"
+			]
+		}
+
+	]
+}
+
+
+
+
+
+
+

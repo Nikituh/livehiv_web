@@ -1,0 +1,14 @@
+
+{		
+	"title": "Test yourself regularly",
+
+	"footer_link": {
+		"team": "TEAM",
+		"about": "ABOUT HIV",
+		"about_url": "/images/document_hiv_information_en.pdf",
+		"stats": "HIV STATS",
+		"stats_url": "http://terviseamet.ee/nakkushaigused/nakkushaigustesse-haigestumine/hiv-ja-aids.html"
+	},
+
+	"footer_label_supporter": "HIVDigital is organized by Estonian Health Technology's Connected Health cluster and GlaxoSmithKleine Eesti OÜ financed by the ViiV Healthcare Positive Partnership programme"
+}

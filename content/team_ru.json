@@ -1,0 +1,32 @@
+
+{
+	"header": "КОМАНДА",
+
+	"position": {
+		"development":
+			{
+				"name": "Ааре", 
+				"label": "Разработка" 
+			},
+		"animation": 
+			{ 
+				"name": "Яанус",
+				"label": "Анимация"
+			},
+		"lead": 
+			{
+				"name": "Яника",
+				"label": "Руководитель проекта"
+			},
+		"marketing": 
+			{
+				"name": "Март",
+				"label": "Маркетинг"
+			},
+		"editing": 
+			{
+				"name": "Мерилин",
+				"label": "Редакция"
+			}
+	}
+}

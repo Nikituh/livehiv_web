@@ -1,0 +1,32 @@
+
+{
+	"header": "Meeskond",
+
+	"position": {
+		"development":
+			{
+				"name": "Aare", 
+				"label": "Arendus" 
+			},
+		"animation": 
+			{ 
+				"name": "Jaanus",
+				"label": "Animatsioon"
+			},
+		"lead": 
+			{
+				"name": "Janika",
+				"label": "Projektijuht"
+			},
+		"marketing": 
+			{
+				"name": "Март",
+				"label": "Marketing"
+			},
+		"editing": 
+			{
+				"name": "Мерилин",
+				"label": "Toimetus"
+			}
+	}
+}

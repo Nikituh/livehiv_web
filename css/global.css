@@ -1,0 +1,370 @@
+
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+     -webkit-font-smoothing: antialiased; 
+}
+
+/******************** 
+	GENERAL
+********************/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: rgb(245, 245, 245);
+}
+
+.content_header {
+	margin: 10px;
+	font-size: 18px;
+	color: rgb(23, 82, 126);
+}
+
+.content_text {
+	text-align: justify;
+	margin: 10px;
+	font-size: 15px;
+	font-weight: 300;
+	line-height: 20px;
+}
+
+@media screen and (max-width: 900px) {
+	.content_header {
+		width: 96%;
+		margin: 2%;
+	}
+
+	.hiv_button_container {
+		width: 50%;
+		font-size: 10px;
+	}
+
+	.hiv_button {
+		font-size: 15px !important;
+	}
+}
+
+.bold {
+	font-weight: 500;
+}
+
+.hiv_purple_color {
+	background-color: #cd2879;
+}
+
+/******************** 
+	NAVIGATION BAR
+********************/
+
+.navigation_bar {
+	position: relative;
+	width: 100%;
+	height: 70px;
+	background-color: #cd2879;
+	z-index: 1000;
+	-webkit-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.75);
+}
+
+@media screen and (max-width: 900px) {
+	.navigation_bar {
+		min-height: 70px;
+	}
+}
+
+.index_button_container {
+	margin-top: 10px;
+	margin-left: 10px;
+	float: left;
+}
+
+.index_button {
+	display: block;
+	text-decoration: none;
+	color: white;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 60px;
+	height: 60px;
+	/*width: 250px;*/
+}
+
+.navigation_bar_hiv_icon {
+	margin-left: 15px;
+	float: left;
+	background-image: url("../images/icon_hiv_bow_navigation.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 50px;
+	height: 50px;
+	margin-top: 10px;
+}
+
+/******************** 
+	TOP NAVIGATION
+********************/
+
+.href_white {
+	color: white;
+}
+
+.navigation_right_box {
+	float: right;
+}
+
+.top_navigation_container {
+	float: left;
+}
+
+.navigation_button {
+	float: left;
+	line-height: 80px;
+	height: 80px;
+	margin-right: 35px;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.navigation_button:hover {
+	opacity: 0.5;
+}
+
+/******************** 
+	LANGUAGE BAR
+********************/
+
+.langage_bar_container {
+	float: left;
+}
+
+.language {
+	margin-top: 22.5px;
+	width: 25px;
+	height: 25px;
+	float: left;
+	margin-right: 5px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.language_en {
+	background-image: url("../images/icon_language_en.png");
+}
+
+.language_et {
+	background-image: url("../images/icon_language_et.png");
+}
+
+.language_ru {
+	background-image: url("../images/icon_language_ru.png");
+	margin-right: 10px;
+}
+
+/******************** 
+	FOOTER
+********************/
+
+.footer_wrapper {
+	background-color: #585858;
+	float: left;
+	width: 100%;
+}
+
+.footer {
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	height: 50px;
+}
+
+@media screen and (max-width: 900px) {
+	.footer {
+		height: 100px;
+	}
+}
+
+.social_icon_container {
+	float: left;
+	margin-left: 15px;
+}
+
+.app_icon_container {
+	float: right;
+}
+
+.icon {
+	margin-top: 10px;
+	margin-right: 10px;
+	height: 30px;
+	width: 30px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	float: left;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.icon_facebook {
+	background-image: url("../images/icon_facebook.png");
+}
+
+.icon_twitter {
+	background-image: url("../images/icon_twitter.png");
+}
+
+.icon_youtube {
+	background-image: url("../images/icon_youtube.png");
+}
+
+.icon_android {
+	background-image: url("../images/icon_android.png");
+}
+
+.icon_ios {
+	background-image: url("../images/icon_ios.png");
+}
+
+.icon_windowsphone {
+	background-image: url("../images/icon_windowsphone.png");
+}
+
+.footer_page_links {
+	float: left;
+	position: absolute;
+	left: 35%;
+	width: 30%;
+}
+
+.footer_page_link {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 50px;
+	height: 50px;
+	width: 33.3%;
+	float: left;
+	text-align: center;
+	color: white;
+}
+
+@media screen and (max-width: 900px) {
+
+	.footer_page_links {
+		width: 100%;
+		left: 0%;
+		margin-top: 50px;
+	}
+}
+
+.footer_page_link:hover {
+	color: rgb(242, 68, 64);
+}
+
+/********************
+	FOOTER - SUPPORTEDBY
+*********************/
+
+.footer_supported_by_wrapper {
+	float: left;
+	width: 100%;
+	background-color: rgb(108, 109, 111);
+	color: white;
+}
+
+.footer_supported_by_image {
+	float: left;
+	width: 20%;
+	background-image: url("../images/logo_hiv_digital.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.footer_supported_by {
+	float: left;	
+	width: 80%;
+	
+	font-size: 16px;
+	font-weight: 400;
+	text-align: center;
+
+	padding-top: 10px;
+	padding-bottom: 20px;
+	
+	min-height: 70px;
+	line-height: 25px;
+}
+
+@media screen and (max-width: 900px) {
+	.footer_supported_by {
+		width: 100%;
+	}
+}
+
+/********************
+	LARGE SUPPORTERS
+*********************/
+
+.large_supporters {
+	width: 100%;
+	background-color: #ededed;
+}
+
+.large_supporters .container {
+	max-width: 960px;
+	margin: 20px auto;
+
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.large_supporter_image {
+    display: inline-block;
+
+    max-width: 200px;
+    max-height: 90px;
+
+    margin: 0 20px 20px 20px !important;
+    margin: 0 50px;
+    padding-top: 15px;
+}
+
+@media screen and (max-width: 900px) {
+	
+	.large_supporter_image {
+		max-width: 20%;
+		margin: 1% !important;
+	}
+}
+
+.large_supporter_link {
+    text-decoration: none;
+    color: #cd2879;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+/**********************
+	TEMPORARY
+**********************/
+
+.icon_app {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

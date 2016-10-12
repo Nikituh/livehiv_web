@@ -1,0 +1,32 @@
+
+{
+	"header": "Team",
+
+	"position": {
+		"development":
+			{
+				"name": "Aare", 
+				"label": "Development" 
+			},
+		"animation": 
+			{ 
+				"name": "Jaanus",
+				"label": "Animation"
+			},
+		"lead": 
+			{
+				"name": "Janika",
+				"label": "Project management"
+			},
+		"marketing": 
+			{
+				"name": "Mart",
+				"label": "Marketing"
+			},
+		"editing": 
+			{
+				"name": "Merilin",
+				"label": "Editing"
+			}
+	}
+}

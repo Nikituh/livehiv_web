@@ -1,0 +1,24 @@
+
+.article_wrapper {
+	float: left;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+@media screen and (max-width: 900px) {
+	.article_wrapper {
+		margin-top: 10px;
+	}
+}
+
+.content_header {
+	margin-top: 40px;
+}
+
+.news_image {
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	width: 96%;
+	height: 260px;
+	margin: 2%;
+}

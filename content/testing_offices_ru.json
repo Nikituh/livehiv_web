@@ -1,0 +1,165 @@
+{
+	"header": "Кабинеты тестирования на ВИЧ",
+	
+	"phone_text": "Тел: ",
+	"address_text": "Адрес: ",
+	"open_hours_text": "Работает ",
+
+	"list": [
+		{
+			"city": "ТАЛЛИНН",
+
+			"offices": [
+				{
+					"name": "Инфекционная клиника Западно-Таллиннской Центральной больницы",
+					"address": "PПалдиское шоссе, 62",
+					"information": "659 8551",
+					"phone": "645 5555",
+					"open_hours": "Пн.-Чт. 8:00–17:30, Пт. 8:00–13:30", 
+					"additional_info": "NB! juuni, juuli ja august on kabinet avatud: E-N 8.00–15.30 ja R 08.00–13.30",
+					"link": "http://www.keskhaigla.ee/kliinikud/nakkuskliinik/hiv-noustamine-ja-testimine/"
+				},
+				{
+					"name": "Synlab Eesti OÜ",
+					"address": "Вяйке-Паала, 1",
+					"phone": "640 8211",
+					"open_hours": "Пн.–Пт. 8:00–15:00",
+					"link": "http://www.quattromed.ee/patsiendile/tasuta-testimine-ja-noustamine/"
+				},
+				{
+					"name": "Synlab Eesti OÜ",
+					"address": "Марди, 3",
+					"phone": "5148057",
+					"open_hours": "Пн.–Пт. 9:00–14:00",
+					"link": "http://www.quattromed.ee/patsiendile/tasuta-testimine-ja-noustamine/"
+				}
+			]
+
+		},
+		{
+			"city": "ТАРТУ",
+
+			
+			"offices": [
+				{
+					"name": "Инфекционное отделение Клиникума Тартуского университета",
+					"address": "Рийа, 167",
+					"phone": "742 7611",
+					"open_hours": "Пн: 10:00–13:00, Вт. 14:00–17:00, Ср. 8:00–11:00, Чт. 15:00-18:00, Пт. 10:00–13:00",
+					"link": "http://www.kliinikum.ee/oe-vastuvott/1272-aids-anonyymne-noustamine"
+				},
+				{
+					"name": "Synlab Eesti OÜ",
+					"address": "Гильди, 8, лаборатория на III этаже",
+					"phone": "17123",
+					"open_hours": "Пн.–Пт. 12:00–15:00",
+					"link": "http://www.quattromed.ee/patsiendile/tasuta-testimine-ja-noustamine/"
+				},
+				{
+					"name": "Synlab Eesti OÜ",
+					"address": "Тегури, 37b",
+					"phone": "17123",
+					"open_hours": "Пн.–Пт. 08:00-13:00",
+					"link": "http://www.quattromed.ee/patsiendile/tasuta-testimine-ja-noustamine/"
+				}
+			]
+		},
+		{
+			"city": "НАРВА",
+
+			"offices": [
+				{
+					"name": "Нарвская больница",
+					"address": "Хайгла, 5, кабинет 14",
+					"phone": "356 0304",
+					"open_hours": "Пн. 12:00–18:00, Вт. 12:00–16:00, Ср. 12:00–16:00, Чт. 12:00–18:00, Пт. 10:00–14:00",
+					"link": "http://www.narvahaigla.ee/index.php?page=2475"
+				}
+			]
+		},
+		{
+			"city": "КОХТЛА-ЯРВЕ",
+
+			"offices": [
+				{
+					"name": "Ида-Вируская Центральная Больница",
+					"address": "Ильмаяама, 16",
+					"phone": "337 88 25",
+					"open_hours": "Пн. и Пт. 08:00–11:00, Вт. и Ср. 15:00–18:00",
+					"link": "http://ivkh.ee/et/raviteenused/treatment-of-infectious-diseases.html"
+				}
+			]
+		},
+		{
+			"city": "ПЯРНУ",
+
+			"offices": [
+				{
+				"name": "Пярнуская больница",
+				"address": "Ристику, 1, кабинет C110",
+				"phone": "447 3388",
+				"open_hours": "Пн. 15:00–18:00, Вт. 13:00–16:00, Чт. 08:00–11:00",
+				"link": "http://www.ph.ee/patsiendile_kulastajale/aidsi_noustamiskabinet"
+				}
+			]
+		},
+		{
+			"city": "ПАЙДЕ",
+
+			"offices": [
+				{
+				"name": "Ярвамааская больница",
+				"address": "Тийги, 8, корпус B",
+				"phone": "384 8178",
+				"open_hours": "Пн. 7:45–15:00 и Пт. 7:45–14:30",
+				"link": "http://jmh.ee/?page_id=98"
+				}
+			]
+		},
+		{
+			"city": "РАКВЕРЕ",
+
+			"offices": [
+				{
+					"name": "Раквереская больница",
+					"address": "Тулевику, 1, кабинет 11",
+					"phone": "322 3581",
+					"open_hours": "Пн. 8:00–10:00, Чт. 16:00–18:00",
+					"link": "http://www.rh.ee/index.php?page=269"
+				}
+			]
+		},
+		{
+			"city": "ТАМСАЛУ",
+
+			"offices": [
+				{
+					"name": "Тамсалуский консультационный центр по ВИЧ и кабинет тестирования",
+					"address": "Техника, 1a",
+					"phone": "325 0950",
+					"open_hours": "Пт. 8:00–11:00",
+					"link": "http://www.rh.ee/index.php?page=269"
+				}
+			]
+		},
+		{
+			"city": "ТАПА",
+
+			"offices": [
+				{
+					"name": "Тапаский консультационный кабинет по ВИЧ и кабинет тестирования",
+					"address": "Валве, 30",
+					"phone": "324 0891",
+					"open_hours": "Вт. 10:00–14:00",
+					"link": "http://www.rh.ee/index.php?page=269"
+				}
+			]
+		}
+	]
+}
+
+
+
+
+
+
