@@ -1,0 +1,43 @@
+
+{
+	"paragraphs_introduction": [
+		
+		"<span class='bold'>BioSure HIV Self Test</span> (sometimes known as an HIV home test) allows you to discreetly determine your own HIV status at a time and a place that is convenient to you. Our HIV self test is easy to perform, requires only a tiny drop of blood and gives an extremely accurate, simple to read result in 15 minutes.",
+
+		"BioSure's new innovative HIV Self Testing kit is over 99.7% accurate from 3 months after suspected exposure to the infection. Our test is simple to use and provides a clear & easy to read indication of your HIV status in just 15 minutes.",
+		
+		"BioSure HIV Self Test has gone through extensive scrutiny and is the only product approved for sale in the UK. It is the only HIV home test to legally carry the CE mark, allowing you complete trust and confidence."
+	],
+
+	"header_important": "<span class='bold'>Important Information!</span>",
+
+	"paragraphs_important": [
+		"The test may not detect HIV infections that have occurred within the last 3 months."
+	],
+
+	"header_single_use": "<span class='bold'> The test is a single use, disposable device.</span>",
+
+	"paragraphs_warning": [
+
+		"If your result is positive you should contact your local sexual health clinic or healthcare professional who will perform a confirmatory HIV test and provide advice.",
+		
+		"If your test is negative it does not mean you are definitely not infected with HIV, especially if your exposure may have occurred within the past 3 months. If you engage in activities that increase your risk of exposure to HIV you should test regularly.",
+		
+		"<span class='bold'>Without diagnosis and treatment then HIV will over time become Advanced HIV (commonly known as AIDS). A person is considered to have developed AIDS when their immune system is so weak it can no longer fight off a range of diseases with which it would normally cope.</span>",
+		
+		"This test is not suitable if you are receiving anti-retroviral treatment (ART)."
+	],
+
+	"button_buy": "Order from the manufacturer's e-shop",
+
+	"text_campaign": "If you order before December 12th, you will get the entire kit for 23€ (including postage) if you enter the code <span class='bold'> LIVEHIV16 </span>",
+
+	"video": {
+		"instruction": {
+			"url": "https://www.youtube.com/embed/WdoMwzTguV0"
+		},
+		"home_test": {
+			"url": "https://www.youtube.com/embed/dX68YimGk30"
+		}
+	}
+}

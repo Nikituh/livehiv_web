@@ -10,15 +10,14 @@
 
 	<link rel="stylesheet" type="text/css" href="../css/base.css">
 	<link rel="stylesheet" type="text/css" href="../css/global.css">
-    <link rel="stylesheet" type="text/css" href="../css/main.css">
-    <link rel="stylesheet" type="text/css" href="testing.css">
+    <link rel="stylesheet" type="text/css" href="hometest.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 
     <script src="../js/cookie.js"></script>
     <script src="../js/global.js"></script>
     <script src="../js/ui.js"></script>
-    <script src="testing.js"></script>
+    <script src="hometest.js"></script>
     
 	<link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="96x96" href="../favicon/favicon-96x96.png">
@@ -50,21 +49,42 @@
 		
 	</div>
 	
-	<div class="col_100">
-		
-		<div class="quick_testing_container">
-			
+	<div class="biosure_wrapper">
+		<div class="biosure_container">
+			<div class="col_100">	
+				<div class= "biosure_image_top" style="display:none;"> </div>
+			</div>
+
+			<div class="col_100 biosure_text_block biosure_paragraphs_introduction"></div>
+
+			<div class="col_100">
+				<a class="biosure_button_href" href="redirect" target="_blank"> <div class="biosure_button_buy"> </div> </a>
+			</div>
+					
+			<div class="col_100 biosure_text_block biosure_text_block_campaign"></div>
+
+			<div class="col_100">
+				<ul class="hometest_video_container">
+					<li class="hometest_video_item_container ">
+						<iframe class="hometest_video hometest_video_tutorial" src="https://www.youtube.com/embed/WdoMwzTguV0"></iframe>
+					</li>
+					<li class="hometest_video_item_container ">
+						<iframe class="hometest_video hometest_video_hiv_testing" src=""></iframe>
+					</li>
+				</ul>
+			</div>
+
+			<div class="col_100 biosure_text_block biosure_header_block biosure_header_important"></div>
+			<div class="col_100 biosure_text_block biosure_paragraphs_important"></div>
+
+			<div class="col_100 biosure_text_block biosure_header_block biosure_header_single_use"></div>
+			<div class="col_100 biosure_text_block biosure_paragraphs_warning"></div>
+
 		</div>
 	</div>
-
-	<div class="col_100">
-	<div class="testing_offices_wrapper">
-		<div class="content_container">
-			<div class="col_100 content_header"> HIV Testimiskabinetid </div>
-		</div>
-	</div>
-</div>
-
+	
+	<div class="col_100" style="margin-bottom: 30px;"></div>
+	
 	<div class="footer_wrapper">
 		<div class="footer">
 
@@ -104,6 +124,19 @@
 
 	  ga('create', 'UA-84336759-1', 'auto');
 	  ga('send', 'pageview');
+	</script>
+
+	<script>var _gaq = null;</script>
+	
+	<script type="text/javascript"> 
+		var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-84336759-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+	</script>
+
+	<script>
+	    $(document).on("click", ".biosure_button_buy", function() {
+	        _gaq.push(['_trackEvent', 'Button', 'Click']);
+	        console.log("sending data to google");
+	    });
 	</script>
 
 </body>

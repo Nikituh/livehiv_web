@@ -66,7 +66,7 @@ function UI_getTextSection(section) {
 }
 
 function UI_getOfficeHeader(header) {
-	return "<div class='content_container'> <div class='col_100 content_header'>" + header + "</div> </div>";
+	return "<div class='content_container'> <div class='col_100 content_header normal_test_clinic_header'>" + header + "</div> </div>";
 }
 
 function UI_getOffice(office, phoneText, addressText, openHoursText) {

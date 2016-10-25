@@ -101,14 +101,14 @@ function loadContent(data) {
 	$(".description_button_call_to_action_clinic").html(data.call_to_action.visit_clinic.description);
 
 	/* CALL TO ACTION BUTTON SIZING*/
-	$(".button_call_to_action_clinic").css("height", "auto");
-	$(".button_call_to_action_order_test").css("height", "auto");
+	// $(".button_call_to_action_clinic").css("height", "auto");
+	// $(".button_call_to_action_order_test").css("height", "auto");
 	
-	if ($(".button_call_to_action_clinic").height() > $(".button_call_to_action_order_test").height()) {
-		$(".button_call_to_action_order_test").height($(".button_call_to_action_clinic").height())
-	} else {
+	// if ($(".button_call_to_action_clinic").height() > $(".button_call_to_action_order_test").height()) {
+	// 	$(".button_call_to_action_order_test").height($(".button_call_to_action_clinic").height())
+	// } else {
 
-	}
+	// }
 
 	/* VIDEO */
 	var parsedUrl = "https://www.youtube.com/watch?v=" + data.video_url.not_sure.split("/embed/")[1];
@@ -132,14 +132,9 @@ function loadContent(data) {
 	/* NEWS */
 	$(".news_header").html(data.news.header);
 
-	/* CONTACT */
-	$(".contact_header").html(data.contact.header);
-
-	$(".form_label_name").html(data.contact.form_items.name);
-	$(".form_label_email").html(data.contact.form_items.email);
-	$(".form_label_message").html(data.contact.form_items.message);
-
-	$(".form_button_submit").prop("value", data.contact.button_submit);
+	/* LEARN MORE */
+	$(".learn_more_top_label").html(data.learn_more.text);
+	$(".learn_more_bottom_link").html(data.learn_more.link);
 }
 
 function updateVideoSource(source) {

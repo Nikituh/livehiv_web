@@ -1,0 +1,43 @@
+
+{
+	"paragraphs_introduction": [
+		
+		"<span class='bold'> BioSure HIV enesetest </span>(tuntud ka HIV kodutestina), võimaldab sul määrata oma HIV staatust diskreetselt, valides ise koha ja aja, mis sulle sobivad. BioSure HIV enesetesti on lihtne läbi viia, selleks on vaja vaid väikest tilka verd ning väga täpne tulemus on 15 minuti möödudes selgesti loetav.",
+
+		"BioSure uus innovatiivne HIV enesetest on vähemalt <span class='bold'> 99,7% </span> täpne peale kahtlustatavast nakatumisest 3 kuu möödumist. BioSure testi on lihtne kasutada ning see annab selge ning lihtsalt loetava HIV staatuse tulemuse vaid 15 minutiga.",
+		
+		"BioSure HIV enesetest kannab legaalset CE tähist ning on registreeritud EU liikmesriigi meditsiiniseadmete registris."
+	],
+
+	"header_important": "<span class='bold'>Tähtis!</span>",
+
+	"paragraphs_important": [
+		"Käesolev test ei pruugi tuvastada HIV nakatumist, mis on toimunud viimase 3 kuu jooksul."
+	],
+
+	"header_single_use": "<span class='bold'> Käesolev enesetest on ühekordselt kasutatav seade</span>",
+
+	"paragraphs_warning": [
+
+		"Kui sinu testitulemus on positiivne, siis peaksid ühendust võtma kas perearsti või anonüümse HIV kabinetiga, et viia läbi kinnitav HIV test ja saada nõustamist.",
+		
+		"Negatiivne HIV test ei tähenda, et oled vaba HIV nakkusest, seda eriti juhul, kui võimalik kokkupuude on toimunud viimase 3 kuu jooksul. Kui sa puutud kokku HIV riski sisaldavate tegevustega, siis soovitame sul ennast regulaarselt testida.",
+		
+		"<span class='bold'>Ilma diagnoosimise ja ravita kujuneb HIV nakatunul välja AIDS. Inimest loetakse AIDS-i haigeks, kui tema immuunsüsteem on nii nõrk, et ei suuda enam vastu seista haigustele, millega ta tavaolukorras toime tuleks.</span>",
+		
+		"See test ei ole sobilik kasutamiseks, kui saad HIV vastast ravi."
+	],
+
+	"button_buy": "Telli test otse tootja e-poest",
+
+	"text_campaign": "Kuni 12nda detsembrini saab tellida kodutesti 23 euroga (sisaldab postikulu). Selleks sisesta kampaaniakood <span class='bold'> LIVEHIV16 </span>",
+	
+	"video": {
+		"instruction": {
+			"url": "https://www.youtube.com/embed/Pfdsuk7fmDE"
+		},
+		"home_test": {
+			"url": "https://www.youtube.com/embed/PBHWSI13wHc"
+		}
+	}
+}

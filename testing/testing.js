@@ -22,12 +22,20 @@ function loadLanguage2() {
 
 		$(".quick_test_clinic_header").html(data.header);
 
+		container.append("<div class='testing_header_container'><div class='test_intro_header quick_testing_header'></div></div>");
+
 		for (var i = 0; i < data.clinics.length; i++) {
 			var clinic = data.clinics[i];
 			var html = UI_getClinicData(clinic);
 
 			container.append(html);
 		}
+
+
+		var rapid = data.explanation_rapid_test;
+		var normal = data.explanation_normal_test;
+		$(".quick_testing_header").html(rapid);
+		$(".normal_testing_header").html(normal);
 	});
 }
 
@@ -36,6 +44,8 @@ function loadOfficeData(data) {
 	var container = $(".testing_offices_wrapper");
 
 	container.html(UI_getOfficeHeader(data.header));
+
+	container.append("<div class='testing_header_container'><div class='test_intro_header normal_testing_header'></div></div>");
 
 	for (var i = 0; i < data.list.length; i++) {
 		var item = data.list[i];
@@ -89,6 +99,8 @@ function UI_getClinicData(clinic) {
 			}
 
 		html += "</div>";
+
+	html += "<div class='col_100 clinic_graph' style='background-image: url(" + clinic.graph + ");'></div>";
 
 	html += "</div>";
 	html += "</div>";

@@ -1,0 +1,88 @@
+
+.biosure_wrapper {
+	max-width: 850px;
+	margin: 0 auto;
+	color: rgb(23, 82, 126);
+	font-weight: 400;
+}
+
+.biosure_image_top {
+	height: 300px;
+	width: 300px;
+	margin: 40px auto;
+
+	background-image: url("//cdn.shopify.com/s/files/1/0715/4643/products/biosure-product-image_large.JPG?v=1424425809");
+}
+
+.biosure_text_block {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.biosure_header_block {
+	text-align: center;
+	font-size: 20px;
+}
+
+.biosure_paragraph {
+	margin-top: 8px;
+	line-height: 20px;
+}
+
+.biosure_button_href {
+	text-decoration: none;
+}
+
+.biosure_text_block_campaign {
+	width: 80%;
+	margin: 10px auto;
+	font-weight: 600;
+	float: none;
+}
+.biosure_button_buy {
+	
+	height: 60px;
+	width: 400px;
+
+	margin: 20px auto;
+	margin-top: 30px;
+
+	line-height: 60px;
+	font-size: 17px;
+	
+	color: white;
+	background-color: #cd2879;
+	text-align: center;
+
+	-webkit-box-shadow: 3px 2px 16px -4px rgba(0,0,0,0.75);
+	-moz-box-shadow: 3px 2px 16px -4px rgba(0,0,0,0.75);
+	box-shadow: 3px 2px 16px -4px rgba(0,0,0,0.75);
+}
+
+.biosure_button_buy:hover {
+	opacity: 0.7;
+}
+
+.hometest_video_container {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.hometest_video_item_container {
+	float: none;
+	display: inline-block;
+}
+
+.hometest_video {
+	height: 200px;
+	width: 400px;
+}
+
+.biosure_paragraph_warning {
+	margin-bottom: 40px;
+}
+
+
+
+

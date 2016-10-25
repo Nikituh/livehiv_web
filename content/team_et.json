@@ -1,6 +1,6 @@
 
 {
-	"header": "Meeskond",
+	"header": "MEESKOND",
 
 	"position": {
 		"development":
@@ -20,13 +20,30 @@
 			},
 		"marketing": 
 			{
-				"name": "Март",
+				"name": "Mart",
 				"label": "Marketing"
 			},
 		"editing": 
 			{
-				"name": "Мерилин",
+				"name": "Merilin",
 				"label": "Toimetus"
 			}
+	},
+
+	"contact": {
+		"header": "VÕTA ÜHENDUST",
+
+		"form_items": {
+			"name": "Nimi",
+			"email": "E-post",
+			"message": "Sõnum"
+		},
+
+		"button_submit": "Saada",
+
+		"result": {
+			"success": "Korras! Email saadetud",
+			"error": "Oih, midagi läks vähe nihu. Ole hea, proovi uuesti"
+		}
 	}
 }

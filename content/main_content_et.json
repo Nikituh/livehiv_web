@@ -3,9 +3,9 @@
 	"error": "none",
 
 	"header": {
-		"header": "Eestis on HIV-Epideemia – ole kindel, et sa ei ole nakatunud",
+		"header": "Eestis on HIV-epideemia – ole kindel, et sa ei ole nakatunud",
 		"paragraph_1": "Iga 143s inimene Eestis on HIV-positiivne",
-		"paragraph_2": "Enamus uusi nakatunuid Tallinnas on keskmise või kõrgema sissetulekuga"
+		"paragraph_2": "Enamus uusi nakatunuid on Tallinnas 25-50 aastat vanad"
 	},
 	
 	"header_2": {
@@ -14,12 +14,12 @@
 
 	"call_to_action": {
 		"order_test": { 
-			"title": "TELLI KODUTEST", 
-			"description": "Telli anonüümselt test koju. Kodutesti hind <span class='bold'>ca. 40€</span>. Vaata kasutamise <a href='https://www.youtube.com/watch?v=WdoMwzTguV0' target='_blank'>videot</a>. Testimiseks kulub umbes 20 minutit."
+			"title": "TESTI END", 
+			"description": "Tänapäeval on võimalik ennast ka kodus testida, täiesti anonüümselt"
 			},
 		"visit_clinic": {
-			"title": "KIIRTEST KLIINIKUS",
-			"description": "Anonüümset kiirtestimist saab teha <span class='bold' style='color:white;'>tasuta</span> Tallinnas ja Narvas HIV nõustamiskabinetis. Test võtab aega umbes 3 minutit"
+			"title": "KIIRTESTI KLIINIKUS",
+			"description": "Anonüümset kiirtestimist saab teha tasuta  HIV nõustamiskabinetis. Test võtab aega umbes 3 minutit"
 		}
 	},
 
@@ -43,22 +43,14 @@
 	"news": {
 		"header": "UUDISED"
 	},
+	
+	"learn_more": {
+		"text": "Uuri HIV ennetuse kohta rohkem leheküljelt",
+		"link": "hiv.ee"
+	},
 
-	"contact": {
-		"header": "VÕTA ÜHENDUST",
-
-		"form_items": {
-			"name": "Nimi",
-			"email": "E-post",
-			"message": "Sõnum"
-		},
-
-		"button_submit": "Saada",
-
-		"result": {
-			"success": "Korras! Email saadetud",
-			"error": "Oih, midagi läks vähe nihu. Ole hea, proovi uuesti"
-		}
+	"hiv_ee": {
+		"text": "Uuri lähemalt hiv.ee-st"
 	}
 }
 

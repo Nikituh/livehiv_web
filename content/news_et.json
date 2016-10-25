@@ -7,16 +7,16 @@
 
 			"date": "02.09 2016",
 
-			"header": "HIVdigital Hackathoni raames töötati välja HIVi ennetav lahendus epiedeemia peatamiseks",
+			"header": "HIVdigital Hackathoni raames töötati välja HIVi ennetav lahendus epideemia peatamiseks",
 						
 			"left_paragraphs": [
 				"26. kuni 28. augustil toimus Tallinna Teaduspargis Tehnopol maailma esimene HIVdigital Hackathon ehk arendusmaraton. Tähtsa projekti raames oli kokku tulnud üle 80 IT-arendaja ja HIV-valdkonna spetsialisti, et selgitada välja parimad teostustväärivad ideed selliste digilahenduste väljatöötamiseks, mis tõstaksid HIV-positiivsete inimeste heaolu.",
 
 				"Konkursi korraldajateks oli Tallinna Teaduspark Tehnopol poolt juhitud Eesti tervisetehnoloogia klaster Connected Health ja GlaxoSmithKline Eesti. Ettevõtmisele avaldas toetust Sotsiaalministeerium ning konkurssi rahastas ViiV Healthcare Positive Partnerships programmist.",
 
-				"48-tunnise arendumaratoni tulemusena valiti võitjateks esialgsest neljateistkümnest esitatud ideest kolm, kelle vahel jagati auhinnafond 30 000 eurot. Võitjateks osutusid projektid Live HIV, DigiScreen ja hINF.",
+				"48-tunnise arendusmaratoni tulemusena valiti võitjateks esialgsest neljateistkümnest esitatud ideest kolm, kelle vahel jagati auhinnafond 30 000 eurot. Võitjateks osutusid projektid LiveHIV, DigiScreen ja hINF.",
 
-				"Kui DigiScreen soovib automatiseerida HIV riskirühma leidmist Eestis ning hINF luua mobiilirakenduse, millega toetada raviplaani jälgivaid HIV positiivseid patsiente, siis Live HIV soovib tegelema asuda tegeliku probleemi lahendamisega, see tähendab - HIVi haigestumise piiramisega.",
+				"Kui DigiScreen soovib automatiseerida HIV riskirühma leidmist Eestis ning hINF luua mobiilirakenduse, millega toetada raviplaani jälgivaid HIV-positiivseid patsiente, siis LiveHIV soovib tegelema asuda tegeliku probleemi lahendamisega, see tähendab - HIVi haigestumise piiramisega.",
 
 				"../images/photo/photo_hackathon.jpg"
 			],
@@ -25,13 +25,13 @@
 
 				"HIV epideemia levik on Eestis väga kiire, asetades meie väikese riigi Euroopa Liidus uute nakatumiste poolest esikohale. Teades, et HIV raviks on ennetus, saab levikut tõkestada vaid pideva kampaania ja teavitustöö kaudu.",
 				
-				"LiveHIV projekti eesmärk on teha veebis kaasahaarav püsikampaania, et julgustada terveid täiskasvanud inimesi ennast regulaarelt kiirtestima ning positiivse vastuse korral suunata neid vajalike teenusteni. Kuna püsiteraapial olev HIV positiivne elab tavalist igapäevaelu ja teisi ei nakata, näebki Live HIV oma projekti põhipanust HIV nakatumise olulisel pidurdamisel heteroseksuaalses 35+ rühmas. Alternatiivina anonüümses kabinetis kiirtesti tegemisele soovib LiveHIV.ee olla ka esimene ja operatiivseim allikas, millest  hakkab alates novembri lõpust saama infot kodutestimise võimaluste kohta.",
+				"LiveHIV projekti eesmärk on teha veebis kaasahaarav püsikampaania, et julgustada terveid täiskasvanud inimesi ennast regulaarselt kiirtestima ning positiivse vastuse korral suunata neid vajalike teenusteni. Kuna püsiteraapial olev HIV-positiivne elab tavalist igapäevaelu ja teisi ei nakata, näebki LiveHIV oma projekti põhipanust HIV nakatumise olulisel pidurdamisel heteroseksuaalses 35+ rühmas. Alternatiivina anonüümses kabinetis kiirtesti tegemisele soovib LiveHIV.ee olla ka esimene ja operatiivseim allikas, millest  hakkab alates novembri lõpust saama infot kodutestimise võimaluste kohta.",
 
-				"Live HIV veebilehekülg saab olema parima ja värskeima HIV teemalise sisuga lehekülg.",
+				"LiveHIV veebilehekülg saab olema parima ja värskeima HIV teemalise sisuga lehekülg.",
 
-				"Lisaks kodutestide pakkumise informatsioonile toetab Live HIV keskkond ka HIV-positiivse tulemuse saanud inimesi. Suunab nad abipakkujate juurde ning pakub omalt poolt lootust.",
+				"Lisaks kodutestide pakkumise informatsioonile toetab LiveHIV keskkond ka HIV-positiivse tulemuse saanud inimesi. Suunab nad abipakkujate juurde ning pakub omalt poolt lootust.",
 
-				"Seda kasvõi läbi lihtsate ja selgete animatsioonide. Et HIV positiivse vastuse saanud inimene teaks, et tal on regulaarset ravi saades võimalik täisväärtuslikult edasi elada.",
+				"Seda kasvõi läbi lihtsate ja selgete animatsioonide. Et HIV-positiivse vastuse saanud inimene teaks, et tal on regulaarset ravi saades võimalik täisväärtuslikult edasi elada.",
 
 				"Järgmise kolme kuu jooksul tuleb hackathoni finalistidel arendada välja prototüübid ning juba 2016. aasta detsembris valitakse võitja, kellele määratakse auhinnaraha 70 000 eurot, et oma prototüübist toimiv ja jätkusuutlik digilahendus lõpuni arendada."
 			]
@@ -50,7 +50,7 @@
 
 				"Soovisime ka teada, kui mitu vastanutest on teadlikud sellest, et HIV ravil ollev inimene ei saa nakatada teisi inimesi. Kõigest 36 oli seda enne kuulnud ning koguni 71 ei olnud sellisest informatsioonist teadlikud.",
 
-				"Küsisime veel, kas uuringus osalejad on teadlikud, et õigeaegselt avastatud viirusega HIV ravil ollev inimene elab igapäevast tabletiteraapiat saades sama kaua, kui HIV negatiivne inimene. Vastused jagunesid 69 teadja ja 37 mitteteadja vahel. 63 küsitletust olid kuulnud, et Eestis on uute HIV positiivsete juhtude arv elanikkonna kohta 8 korda kõrgem, kui Euroopas. 43-le inimesele oli see uudiseks. Anonüümsete tasuta kiirtestivõimalustega kabinettide olemasolust oli teadlik 69 inimest, kuid 37 polnud sellest kuulnudki.",
+				"Küsisime veel, kas uuringus osalejad on teadlikud, et õigeaegselt avastatud viirusega HIV ravil ollev inimene elab igapäevast tabletiteraapiat saades sama kaua, kui HIV negatiivne inimene. Vastused jagunesid 69 teadja ja 37 mitteteadja vahel. 63 küsitletust olid kuulnud, et Eestis on uute HIV-positiivsete juhtude arv elanikkonna kohta 8 korda kõrgem, kui Euroopas. 43-le inimesele oli see uudiseks. Anonüümsete tasuta kiirtestivõimalustega kabinettide olemasolust oli teadlik 69 inimest, kuid 37 polnud sellest kuulnudki.",
 
 				"Uurisime, kui palju on levinud informatsioon selle kohta, et suurem arv uusi nakatunuid on Tallinn- Harju keskklassi tavalised heteroseksuaalsed inimesed. Uudiseks oli see 64 inimesele. 42 väitsid ennast seda juba teadvat.",
 
@@ -63,7 +63,7 @@
 
 				"Kokkuvõtteks võib öelda, et enamus inimesi saab aru, kui tähtis on HIV leviku tõkestamine ja selle ennetamine. Leidub veel mitmeid, kes ei ole oma HIV staatusest teadlikud. Palju inimesi laseb HIV testi teha kompleksuuringute käigus ja omast huvist testitegijate testimiste vahele jääv aeg on suuresti rohkem kui 1 aasta. Selgub ka, et viimase kolme kuu jooksul testi teinud inimesi on päris palju.",
 
-				"Paljud on kuulnud, et õigeaegselt avastatud viirusega korrapärast ravi saav HIV positiivne võib elada sama kaua kui teised inimesed, samas ei tea suur osa inimesi, et sama ravi saav HIV positiivne ei nakata teisi inimesi.",
+				"Paljud on kuulnud, et õigeaegselt avastatud viirusega korrapärast ravi saav HIV-positiivne võib elada sama kaua kui teised inimesed, samas ei tea suur osa inimesi, et sama ravi saav HIV-positiivne ei nakata teisi inimesi.",
 
 				"Mitmed on kuulnud Eesti kõrgest HIV- sse nakatunute arvust, aga ei tea midagi tasuta testimisvõimalustest, et ennast ja teisi kaitsta. Ja isegi teades testimisvõimalustest, ei ole paljud huvitatud enese testimisest. Tundub, et nad ei ole piisavale teadlikud HIV saamisvõimaluse suurusest.",
 
@@ -83,7 +83,7 @@
 
 			"left_paragraphs": [
 				"Täna toimus Narvas Narva kliiniku juhataja Igor Pšenkovi ja LiveHIV meeskonnajuhi Janika Leoste kohtumine, kus lepiti kokku regionaalses koostöös HIV nädalal.",
-				"Lisaks toimus ka häälte salvestamine venekeelsetele HIV positiivsetele suunatud uuele animatsioonile (hääle andis Linda Kliiniku vanemõde Tamara Dmitirijeva). Uue animatsiooniga  saab tutvuda 10. oktoobril liveHIV.ee avatavas venekeelsel veebilehel. Sealt hakkab leidma ka värsket informatsioon HIVennetusnädala regionaalsete sündmuste kohta."
+				"Lisaks toimus ka häälte salvestamine uuele vene keelt kõnelevatele HIV-positiivsetele suunatud animatsioonile (hääle andis Linda Kliiniku vanemõde Tamara Dmitirijeva). Uue animatsiooniga  saab tutvuda 10. oktoobril liveHIV.ee avatavas venekeelsel veebilehel. Sealt hakkab leidma ka värsket informatsiooni HIVennetusnädala regionaalsete sündmuste kohta."
 			],
 
 			"right_paragraphs": [
@@ -131,9 +131,9 @@
 
 				"Inimesed, kes saavad selles etapis õiget HIV ravi, võivad jäädagi sellesse haigusfaasi, kuna ravi aitab hoida viirust kontrolli all.",
 
-				"On oluline teada, et ka selles faasis võivad HIV positiivsed inimesed mitte ravi saades teisi nakatada isegi sellisel juhul, kui neil puuduvad sümptomid.",
+				"On oluline teada, et ka selles faasis võivad HIV-positiivsed inimesed mitte ravi saades teisi nakatada isegi sellisel juhul, kui neil puuduvad sümptomid.",
 
-				"Need, kes saavad selles stapis HIV ravi, võivad viirust edasi kanda vaid väikese tõenäosusega. Seda seepärast, et nende veres on viirusetase madalam.",
+				"Need, kes saavad selles etapis HIV-ravi, võivad viirust edasi kanda vaid väikese tõenäosusega. Seda seepärast, et nende veres on viirusetase madalam.",
 
 				"<span class='bold'> 3. AIDS </span>",
 

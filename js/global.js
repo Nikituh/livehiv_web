@@ -27,8 +27,6 @@ $(document).ready(function() {
 	}
 
 	loadNavigationContent();
-
-	setMinContentHeight();
 });
 
 function languageButtonClicked() {
@@ -72,13 +70,9 @@ function updateButtons(data) {
 	}
 }
 
-function setMinContentHeight() {
+function setMinContentHeight(elementClass) {
 
-	// if (window.location.href.indexOf("testing")) {
-	// 	return;
-	// }
-
-	var content = $(".content_container_no_flex");
+	var content = $(elementClass);
 
 	var height = $(window).height();
 

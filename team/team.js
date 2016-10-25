@@ -32,4 +32,13 @@ function loadPositions(data) {
 	$(".position_lead").html(data.position.lead.label);
 	$(".position_marketing").html(data.position.marketing.label);
 	$(".position_editing").html(data.position.editing.label);
+
+	/* CONTACT */
+	$(".contact_header").html(data.contact.header);
+
+	$(".form_label_name").html(data.contact.form_items.name);
+	$(".form_label_email").html(data.contact.form_items.email);
+	$(".form_label_message").html(data.contact.form_items.message);
+
+	$(".form_button_submit").prop("value", data.contact.button_submit);
 }

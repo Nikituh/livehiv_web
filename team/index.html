@@ -51,7 +51,7 @@
 	
 	<div class="content_container_no_flex team_items_wrapper">
 
-		<div class="team_header"> THE TEAM </div>
+		<div class="team_page_section_header team_header"> THE TEAM </div>
 
 		<ul class="team_members_container">
 			
@@ -88,6 +88,33 @@
 		</ul>
 	</div>
 	
+	<div class="content_container">
+		<div class="team_page_section_header contact_header"> </div>
+	</div>
+
+	<div class="content_container_no_flex">
+		<div id="page-wrap">
+			<div id="contact-area">
+				
+				<form method="post" action="/contact/contactengine.php">
+					<label class="form_label_name" for="Name">Name:</label>
+					<input type="text" name="Name" id="Name" required="true"/>
+		
+					<label class="form_label_email" for="Email">Email:</label>
+					<input type="text" name="Email" id="Email" required="true"/>
+					
+					<label class="form_label_message" for="Message">Message:</label><br />
+					<textarea name="Message" rows="20" cols="20" id="Message" required="true"></textarea>
+
+					<input type="submit" name="submit" value="Submit" class="submit-button form_button_submit" />
+				</form>
+				
+				<div style="clear: both;"></div>
+			
+			</div>
+		</div>
+	</div>
+
 	<div class="footer_wrapper">
 		<div class="footer">
 
@@ -114,7 +141,7 @@
 	
 	<div class="footer_supported_by_wrapper">
 		<div class="content_container">
-			<div class="footer_supported_by_image"></div>
+			<a href="http://hivdigital.ee/" class="footer_supported_by_image"></a>
 			<div class="footer_supported_by"></div>
 		</div>
 	</div>

@@ -5,27 +5,27 @@
 	"header": {
 		"header": "There's a HIV epidemic in Estonia – make sure you're not infected",
 		"paragraph_1": "Every 143rd person is HIV-positive",
-		"paragraph_2": "Most new infected from Tallinn are from a normal family and make a decent living"
+		"paragraph_2": "Most new infected from Tallinn are normal family people in the age group of 25-50"
 	},
 
 	"header_2": {
-		"text": "You cannot rely on symptons to diagnose HIV. The only way to truly know if you have HIV or not is to get tested. Knowing your HIV status is important – if you know, you can make the right decisions concerning your health and avoid infecting others."
+		"text": "You cannot rely on symptoms to diagnose HIV. The only way to truly know if you have HIV or not is to get tested. Knowing your HIV status is important – if you know, you can make the right decisions concerning your health and avoid infecting others."
 	},
 
 	"call_to_action": {
 		"order_test": { 
-			"title": "ORDER HOME TEST", 
-			"description": "Order a home test anonymously. It costs ca. 40€. See instructional <a href='https://www.youtube.com/watch?v=WdoMwzTguV0'>video</a>. The test takes about 20 minutes"
+			"title": "TEST YOURSELF", 
+			"description": "Nowadays it's possible to test yourself in the safety of your own home, anonymously"
 			},
 		"visit_clinic": {
 			"title": "QUICK TEST IN A CLINIC",
-			"description": "You can take an anonymous test in a HIV consultation cente in Tallinn or Narva. The test takes about 3 minutes"
+			"description": "You can take an anonymous test in a HIV consultation centre. The test takes about 3 minutes"
 		}
 	},
 
 	"get_tested": {
 		"text": "There are 14 locations across Estonia where you can get tested",
-		"link": "Find the one suitable for you"
+		"link": "Find the most suitable for you"
 	},
 
 	"video_text": {
@@ -44,22 +44,13 @@
 		"header": "NEWS"
 	},
 
-	"contact": {
-		"header": "CONTACT",
+	"learn_more": {
+		"text": "Learn more about HIV at",
+		"link": "hiv.ee"
+	},
 
-		"form_items": {
-			"name": "Name",
-			"email": "E-mail",
-			"message": "Message"
-		},
-
-		"button_submit": "Submit",
-
-		"result": {
-			"success": "Great success! Email sent",
-			"error": "Oops! Something went terribly wrong, please try again"
-		}
+	"hiv_ee": {
+		"text": "Find out more on hiv.ee"
 	}
-
 }
 	

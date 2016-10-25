@@ -37,11 +37,15 @@
 }
 
 .initial_slogan_2 {
-	font-size: 20px;
+	margin-top: 10px;
+	font-size: 22px;
 }
 
 .initial_slogan_3 {
 	font-size: 20px;
+	width: 80%;
+	float: none;
+	margin: 0 auto;
 }
 
 @media screen and (max-width: 900px) {
@@ -75,40 +79,23 @@
 .header_image_container {
 	width: 100%;
 	background-color: #ededed;
-	height: 400px;
+	height: 250px;
 	/*background-image: url("../images/image_header_chain_blue_alt.jpg");*/
 	background-image: url("../images/image_header_hearts_alt4.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 
-.image_top_large {
-	
-	height: 400px;
-	width: 100%;
-	margin: 0 auto;
-
-	position: absolute;
-	max-width: 960px;
-}
-
 @media screen and (max-width: 900px) { 
-	.image_top_large {
-		height: 300px;		
-	}
-
 	.header_image_container {
-		height: 300px;
+		height: 150px;
 	}
 }
 
 @media screen and (max-width: 650px) { 
-	.image_top_large {
-		height: 200px;		
-	}
 
 	.header_image_container {
-		height: 200px;
+		height: 230px;
 	}
 }
 
@@ -119,7 +106,7 @@
 
 	color: white;
 
-	margin-top: 100px;
+	margin-top: 50px;
 	margin-bottom: 10px;
 	margin-left: 20px;
 	margin-right: 20px;
@@ -147,29 +134,39 @@
 	margin-top: 30px;
 }
 
+.call_to_action_container_bottom {
+	margin-bottom: 0;
+}
+
+.call_to_action_wrapper_bottom {
+	background-color: #ededed;
+}
+
 .call_to_action_button_container {
-	width: 50%;
+	width: 46%;
+	margin-left: 2%;
+	background-color: white;
+}
+
+.call_to_action_button_container_bottom {
+	background-color: #ededed;
 }
 
 .button_call_to_action {
 	border-top: 15px solid rgba(0, 0, 0, 0);
-	background-color: rgba(0, 0, 0, 0.7);
 	
-	width: 50%;
+	width: 200px;
+	height: 150px;
 
-	margin-top: 10px;
+	margin: 30px auto;
+	
+	background-color: #cd2879;
 
-	border-radius: 5px;
-}
+	/*border-radius: 5px;*/
 
-.button_call_to_action_order_test {
-	float: right;
-	margin-right: 10px;
-}
-
-.button_call_to_action_clinic {
-	float: left;
-	margin-left: 10px;
+	-webkit-box-shadow: 3px 2px 16px -4px rgba(0,0,0,0.75);
+	-moz-box-shadow: 3px 2px 16px -4px rgba(0,0,0,0.75);
+	box-shadow: 3px 2px 16px -4px rgba(0,0,0,0.75);
 }
 
 .link_button_call_to_action {
@@ -186,30 +183,38 @@
 
 .text_button_call_to_action {
 	margin-top: 10px;
-	line-height: 32px;
+	line-height: 25px;
+	
 	color: white;
+	/*color: rgb(80, 80, 80);*/
+
 	text-align: center;
 	font-size: 15px;
-	font-weight: 400;
+	font-weight: 500;
 	margin-left: 5px;
 	margin-right: 5px;
 }
 
 .description_button_call_to_action {
-	line-height: 15px;
-	color: rgb(220, 220, 220);
+	line-height: 20px;
+	color: rgb(100, 100, 100);
 	text-align: center;
-	font-size: 12px;
+	font-size: 15px;
 	font-weight: 400;
-	margin-left: 5px;
-	margin-right: 5px;
-	margin-bottom: 10px;
+	
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+
+	height: 80px;
 }
 
 @media screen and (max-width: 900px) {
 		
 	.button_call_to_action {
-		width: 90%;
+		/*width: 90%;*/
+		width: 150px;
+		height: 130px;
 	}
 
 	.call_to_action_container {
@@ -225,6 +230,11 @@
 	.text_button_call_to_action {
 		font-size: 13px;
 	}
+
+	.description_button_call_to_action {
+		font-size: 13px;
+		height: auto;
+	}
 }
 
 .image_button_call_to_action_order_test {
@@ -236,15 +246,15 @@
 }
 
 .button_call_to_action_order_test:hover {
-	-webkit-box-shadow: -1px 2px 17px 0px rgba(50,75,123,1);
-	-moz-box-shadow: -1px 2px 17px 0px rgba(50,75,123,1);
-	box-shadow: -1px 2px 17px 0px rgba(50,75,123,1);
+	-webkit-box-shadow: -1px 2px 50px 0px rgba(50,75,123,1);
+	-moz-box-shadow: -1px 2px 50px 0px rgba(50,75,123,1);
+	box-shadow: -1px 2px 50px 0px rgba(50,75,123,1);
 }
 
 .button_call_to_action_clinic:hover {
-	-webkit-box-shadow: -1px 2px 17px 0px rgba(228,198,74,1);
-	-moz-box-shadow: -1px 2px 17px 0px rgba(228,198,74,1);
-	box-shadow: -1px 2px 17px 0px rgba(228,198,74,1);
+	-webkit-box-shadow: -1px 2px 50px 0px rgba(228,198,74,1);
+	-moz-box-shadow: -1px 2px 50px 0px rgba(228,198,74,1);
+	box-shadow: -1px 2px 50px 0px rgba(228,198,74,1);
 }
 
 /******************** 
@@ -276,8 +286,41 @@
 }
 
 /******************** 
+	LEARN MORE
+********************/
+
+.learn_more_section_wrapper {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 30px;
+	text-align: center;
+	color: #659A86;
+	margin: 15px auto;
+}
+
+.learn_more_top_label {
+	float: left;
+}
+
+.learn_more_bottom_link {
+	margin-left: 5px;
+	float: left;
+	text-decoration: none;
+	border-bottom: 1px solid #659A86;
+}
+
+.learn_more_bottom_link:link {
+	color: #659A86;;
+}
+
+/******************** 
 	NEWS
 ********************/
+
+.news_items_wrapper {
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
 
 .article_summary_wrapper {
 	float: left;
@@ -370,109 +413,6 @@
 	color: rgb(94, 100, 230);
 	font-weight: 500;
 }
-
-/********************
-	CONTACT
-********************/
-
-* {
-	margin: 0;
-	padding: 0;
-}
-
-p {
-	font-size: 1.3em;
-	margin-bottom: 15px;
-}
-
-#page-wrap {
-	width: 660px;
-	background: white;
-	padding: 20px 50px 20px 50px;
-	margin: 0px auto;
-	height: auto !important;
-	margin-top: 20px;
-	font-size: 62.5%;
-	border-radius: 5px;
-	margin-bottom: 40px;
-}
-
-#contact-area {
-	width: 600px;
-	margin-top: 25px;
-}
-
-#contact-area input, #contact-area textarea {
-	padding: 5px;
-	width: 471px;
-	font-family: Helvetica, sans-serif;
-	font-size: 1.4em;
-	margin: 0px 0px 10px 0px;
-	border: 2px solid #ccc;
-}
-
-#contact-area textarea {
-	height: 90px;
-}
-
-#contact-area textarea:focus, #contact-area input:focus {
-	border: 2px solid #cd2879;
-}
-
-#contact-area input.submit-button {
-	width: 100px;
-	float: right;
-	cursor: pointer;
-	cursor: hand;
-	color: white;
-	background-color: #cd2879;
-}
-
-#contact-area input.submit-button:hover {
-	color: #cd2879;
-	background-color: white;
-}
-
-label {
-	float: left;
-	text-align: right;
-	margin-right: 15px;
-	width: 100px;
-	padding-top: 5px;
-	font-size: 1.4em;
-}
-
-.contact_header {
-	font-size: 30px;
-}
-
-@media screen and (max-width: 900px) { 
-	
-	#page-wrap {
-		width: 96%;
-		padding-left: 3%;
-		padding-right: 1%;
-	}
-
-	#contact-area {
-		width: 100%;
-	}
-
-	#contact-area input, #contact-area textarea {
-		width: 90%;
-	}
-
-	label {
-		text-align: left;
-	}
-
-	#contact-area input.submit-button {
-		margin-right: 25px;
-		height: 50px;
-	}
-}
-
-
 
 /*****************
 	VIDEO

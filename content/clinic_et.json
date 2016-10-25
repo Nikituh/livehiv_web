@@ -29,7 +29,9 @@
 				"email": "info@lindakliinik.ee",
 				"facebook": "http://facebook.com/LindaKliinik",
 				"homepage": "http://lindakliinik.ee"
-			}
+			},
+
+			"graph": "/images/graph/graph_linda_et.png"
 		},
 		{
 			"id": "infection",
@@ -46,13 +48,20 @@
 			],
 
 			"description": "Lääne-Tallinna Keskhaigla Nakkuskliiniku polikliinikus asub anonüümne HIV kabinet, kus saab teha HIV kiirtesti ja saada testiga kaasnevat nõustamist. Teenus on tasuta ja anonüümne. Kiirtesti tegemine koos nõustamisega võtab aega kuni pool tundi ja vastuse saab kohe teada.",
+			
 			"contact": {
 				"header": "Lisainfo",
 				"address": "Paldiski mnt. 62",
 				"phone_support": "Tel: 645 5555",
 				"open_hours": "E-N 8.00–17.30, ja R 8.00–13.30",
 				"homepage": "http://www.keskhaigla.ee/kliinikud/nakkuskliinik/hiv-noustamine-ja-testimine/"
-			}
+			},
+
+			"graph": "/images/graph/graph_tallinn_et.png"
 		}
-	]
+	],
+
+	"explanation_rapid_test": "HIV staatuse tasuta kiirtestimine toimub Eestis anonüümse nõustamise kabinetis. Kiirtesti jaoks vajalik veri võetakse näpuotsast ja vastuse saad viie minuti jooksul",
+
+	"explanation_normal_test": "HIV staatuse anonüümne tasuta testimine veenivere abil toimub üle Eesti 14 erinevas kabinetis. Veenivere vastuse saamiseks läheb aega kuni 5 tööpäeva. Vastuse saad teada, kui külastad kabinetti kokkulepitud ajal uuesti. Telefoni teel vastuseid ei väljastata, sest tegemist on anonüümse testimisega."
 }
